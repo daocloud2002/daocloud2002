@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @daocloud2002
+- 👀 I’m interested in web development, artificial intelligence, and open-source contributions.
+- 🌱 I’m currently learning TypeScript, React, and machine learning algorithms.
+- 💞️ I’m looking to collaborate on projects related to web applications and AI-driven solutions.
+- 📫 How to reach me: You can email me at daocloud2002@example.com or connect with me on LinkedIn at linkedin.com/in/daocloud2002.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I once coded an entire game in a single weekend during a hackathon!
